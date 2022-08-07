@@ -18,8 +18,8 @@
 
 
 ### Authors
-* Hezbon Oduol
-* Helidah Wagude
+* Daniel Worku
+* Abel sentayeu
 
 
 ### License
